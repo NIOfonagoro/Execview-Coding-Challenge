@@ -47,7 +47,7 @@ namespace Execview_Coding_Challenge
                 };
             }
         }
-        //string.split with comma, gives array of values that i can map to what i want
+
         static void Main(string[] args)
         {
             args = new[] { "..//..//chicago-bulls.csv" };
