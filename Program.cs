@@ -6,6 +6,7 @@ using Microsoft.VisualBasic.FileIO;
 using System.Web.UI;
 using System.Web.Script.Serialization;
 using Newtonsoft.Json;
+//NewtonsoftJSON NuGet package had to be installed to deal with json output files
 
 namespace Execview_Coding_Challenge
 {
